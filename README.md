@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alsnne From [Southeast Univeisity](https://www.seu.edu.cn) in Nanjing, China.
+- 👋 Hi, I’m @Alsnne From [Southeast University](https://www.seu.edu.cn) in Nanjing, China.
 - 👀 I major in CS, so welcome to exchange relevant knowledge and skills with me.
 - 🌱 I’m interested in poetry and philosophy as well.
 - 📫 You can reach me at qdxyz@seu.edu.cn.
