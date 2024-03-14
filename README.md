@@ -2,7 +2,6 @@
 - 👀 I major in CS, so welcome to exchange relevant knowledge and skills with me.
 - 🌱 I’m interested in poetry and philosophy as well.
 - 📫 You can reach me at qdxyz@seu.edu.cn.
-- ✨ Welcome to [TJUPT](https://www.tjupt.org/promotionlink.php?key=80f8fd61db2eebd628419963ee78aa59) and have fun.
 
 <!---
 Alsnne/Alsnne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
- <a href="https://www.tjupt.org/promotionlink.php?key=80f8fd61db2eebd628419963ee78aa59"><img src="https://www.tjupt.org/assets/logo/logo_1x.png" alt="北洋园PT" title="北洋园PT"></a>
 --->
